@@ -1,0 +1,47 @@
+{
+  "campaign_name": "core_recovery_envelope_n20",
+    "BaselineMEKF_LQR"
+  ],
+  "deployment_rates_deg_s": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0
+  ],
+  "density_scales": [
+    1.0,
+    3.0,
+    6.0
+  ],
+  "actuator_scales": [
+    1.0,
+    0.85
+  ],
+  "runs_per_scenario": 20,
+  "base_seed": 9600,
+  "dt": 0.1,
+  "detumble_control_dt": 0.2,
+  "transition_control_dt": 0.5,
+  "nominal_control_dt": 0.5,
+  "t_end": 7200.0,
+  "enable_early_termination": false,
+  "single_acquisition_mode": true,
+  "direct_detumble_to_fine_pointing": false,
+  "acquisition_max_linear_err_deg": 17.0,
+  "acquisition_lqr_scale": 0.2,
+  "nominal_entry_pointing_deg": 15.0,
+  "nominal_entry_consistency_deg": 15.0,
+  "nominal_exit_pointing_deg": 20.0,
+  "nominal_exit_consistency_deg": 20.0,
+  "nominal_entry_rate_deg": 0.8,
+  "required_nominal_time_s": 8.0,
+  "required_nominal_exit_time_s": 2.0,
+  "output_root": "results/core_recovery_envelope_n20",
+  "nominal_attitude_gain": 0.0025,
+  "nominal_rate_gain": 0.045,
+  "nominal_integral_gain": 0.0002
+}

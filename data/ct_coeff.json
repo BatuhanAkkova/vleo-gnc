@@ -1,0 +1,338 @@
+[
+    {
+        "type": "coeff",
+        "power_t": "0",
+        "power_s": "0",
+        "val": "-0.0030224278360031775",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "0",
+        "power_s": "1",
+        "val": "0.012022112451547606",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "0",
+        "power_s": "2",
+        "val": "-0.013383782335905627",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "0",
+        "power_s": "3",
+        "val": "0.004527640169925263",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "1",
+        "power_s": "0",
+        "val": "2.8387190183496345",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "1",
+        "power_s": "1",
+        "val": "-0.36931858081449054",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "1",
+        "power_s": "2",
+        "val": "-0.2004194138537605",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "1",
+        "power_s": "3",
+        "val": "0.3457473171695091",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "2",
+        "power_s": "0",
+        "val": "-1.633526148710523",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "2",
+        "power_s": "1",
+        "val": "-6.6736336742414215",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "2",
+        "power_s": "2",
+        "val": "34.24524268612671",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "2",
+        "power_s": "3",
+        "val": "-24.384211163470482",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "3",
+        "power_s": "0",
+        "val": "0.05296795422201721",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "3",
+        "power_s": "1",
+        "val": "165.67394944001623",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "3",
+        "power_s": "2",
+        "val": "-559.0340394765735",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "3",
+        "power_s": "3",
+        "val": "373.0989608620245",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "4",
+        "power_s": "0",
+        "val": "13.19771265174431",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "4",
+        "power_s": "1",
+        "val": "-1277.9455079888999",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "4",
+        "power_s": "2",
+        "val": "3923.155956314647",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "4",
+        "power_s": "3",
+        "val": "-2576.289420228548",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "5",
+        "power_s": "0",
+        "val": "-114.36167219830728",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "5",
+        "power_s": "1",
+        "val": "5053.5732368566005",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "5",
+        "power_s": "2",
+        "val": "-14962.861419459656",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "5",
+        "power_s": "3",
+        "val": "9777.04725288219",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "6",
+        "power_s": "0",
+        "val": "328.9945969420285",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "6",
+        "power_s": "1",
+        "val": "-11638.721653864188",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "6",
+        "power_s": "2",
+        "val": "33904.74141072323",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "6",
+        "power_s": "3",
+        "val": "-22128.70662024798",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "7",
+        "power_s": "0",
+        "val": "-493.3752672009881",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "7",
+        "power_s": "1",
+        "val": "16241.623155840842",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "7",
+        "power_s": "2",
+        "val": "-46971.98380898348",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "7",
+        "power_s": "3",
+        "val": "30674.23967192247",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "8",
+        "power_s": "0",
+        "val": "418.314863601684",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "8",
+        "power_s": "1",
+        "val": "-13544.003833811428",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "8",
+        "power_s": "2",
+        "val": "39076.294313409264",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "8",
+        "power_s": "3",
+        "val": "-25554.929385886862",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "9",
+        "power_s": "0",
+        "val": "-190.00066230693955",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "9",
+        "power_s": "1",
+        "val": "6214.830647107945",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "9",
+        "power_s": "2",
+        "val": "-17939.571897243255",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "9",
+        "power_s": "3",
+        "val": "11755.106497090786",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "10",
+        "power_s": "0",
+        "val": "35.97528796438353",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "10",
+        "power_s": "1",
+        "val": "-1208.0000563107192",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "10",
+        "power_s": "2",
+        "val": "3495.2319042348695",
+        "value": ""
+    },
+    {
+        "type": "coeff",
+        "power_t": "10",
+        "power_s": "3",
+        "val": "-2295.5358574569727",
+        "value": ""
+    },
+    {
+        "type": "norm_S_min",
+        "power_t": "0",
+        "power_s": "0",
+        "val": "",
+        "value": "5.0"
+    },
+    {
+        "type": "norm_S_max",
+        "power_t": "0",
+        "power_s": "0",
+        "val": "",
+        "value": "20.0"
+    },
+    {
+        "type": "norm_theta_min",
+        "power_t": "0",
+        "power_s": "0",
+        "val": "",
+        "value": "0.0"
+    },
+    {
+        "type": "norm_theta_max",
+        "power_t": "0",
+        "power_s": "0",
+        "val": "",
+        "value": "90.0"
+    }
+]
